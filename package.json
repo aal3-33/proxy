@@ -1,0 +1,13 @@
+{
+    "name": "my-static-site",
+    "version": "1.0.0",
+    "description": "A Node.js static site, similar to GitHub Pages",
+    "scripts": {
+      "start": "node server.js",
+      "build": "echo \"No build step required\""
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "http-proxy-middleware": "^3.0.3"
+    }
+  }
