@@ -1,2 +1,11 @@
 # proxy
-Simple nodejs proxy.
+
+```
+npm install
+```
+
+and then
+
+```
+npm start
+```
